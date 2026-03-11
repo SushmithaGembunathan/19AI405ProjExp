@@ -22,7 +22,7 @@ To implement a Sudoku solver using the backtracking algorithm to find the soluti
 
 ### PROGRAM:
 ```
-py
+
 M = 9
 def puzzle(a):
     for i in range(M):
